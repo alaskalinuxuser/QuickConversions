@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the quickconversions.phelion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: quickconversions.phelion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-11 01:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:31 QuickConversions.desktop.in.h:1
+msgid "Quick Conversions"
+msgstr ""
+
+#: ../qml/Main.qml:139
+msgid "Centigrade To Fahrenheit"
+msgstr ""
+
+#: ../qml/Main.qml:139
+msgid "Centimetres To Inches"
+msgstr ""
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:1226
+msgid "Colour Scheme"
+msgstr ""
+
+#: ../qml/Main.qml:139
+msgid "Kilograms To Pounds"
+msgstr ""
+
+#: ../qml/Main.qml:139
+msgid "Kilometres To Miles"
+msgstr ""
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:520
+msgid "Settings"
+msgstr ""
+
+#: ../qml/Main.qml:141
+msgid "Fahrenheit To Centigrade"
+msgstr ""
+
+#: ../qml/Main.qml:141
+msgid "Inches To Centimetres"
+msgstr ""
+
+#: ../qml/Main.qml:141
+msgid "Miles To Kilometres"
+msgstr ""
+
+#: ../qml/Main.qml:141
+msgid "Pounds To Kilograms"
+msgstr ""
+
+#: ../qml/Main.qml:371
+msgid "Temperature (°C/°F)"
+msgstr ""
+
+#: ../qml/Main.qml:408
+msgid "Weight (Kg/Lbs)"
+msgstr ""
+
+#: ../qml/Main.qml:445
+msgid "Height (Cm/Inches)"
+msgstr ""
+
+#: ../qml/Main.qml:482
+msgid "Distance (Km/Miles)"
+msgstr ""
+
+#: ../qml/Main.qml:1251
+msgid "Temperature"
+msgstr ""
+
+#: ../qml/Main.qml:1274
+msgid "°C Max"
+msgstr ""
+
+#: ../qml/Main.qml:1321
+msgid "°C Min"
+msgstr ""
+
+#: ../qml/Main.qml:1367
+msgid "°F Max"
+msgstr ""
+
+#: ../qml/Main.qml:1413
+msgid "°F Min"
+msgstr ""
+
+#: ../qml/Main.qml:1452
+msgid "Weight"
+msgstr ""
+
+#: ../qml/Main.qml:1475
+msgid "Kg Max"
+msgstr ""
+
+#: ../qml/Main.qml:1522
+msgid "Lbs Max"
+msgstr ""
+
+#: ../qml/Main.qml:1568 ../qml/Main.qml:1762 ../qml/Main.qml:1916
+msgid "0.5 Step Size"
+msgstr ""
+
+#: ../qml/Main.qml:1615
+msgid "Show Stone"
+msgstr ""
+
+#: ../qml/Main.qml:1650
+msgid "Height"
+msgstr ""
+
+#: ../qml/Main.qml:1672
+msgid "Cm Max"
+msgstr ""
+
+#: ../qml/Main.qml:1717
+msgid "Inches Max"
+msgstr ""
+
+#: ../qml/Main.qml:1802
+msgid "Distance"
+msgstr ""
+
+#: ../qml/Main.qml:1824
+msgid "Km Max"
+msgstr ""
+
+#: ../qml/Main.qml:1870
+msgid "Miles Max"
+msgstr ""
+
+#: ../qml/Main.qml:1985
+msgid "Background"
+msgstr ""
+
+#: ../qml/Main.qml:2120
+msgid "Text"
+msgstr ""

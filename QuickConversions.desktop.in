@@ -1,0 +1,7 @@
+[Desktop Entry]
+_Name=Quick Conversions
+Exec=QuickConversions %U
+Icon=assets/QuickConversions.svg
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
