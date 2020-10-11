@@ -1,0 +1,151 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the quickconversions.phelion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: quickconversions.phelion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-11 01:02+0000\n"
+"PO-Revision-Date: 2020-10-11 13:37+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: Heimen Stoffels <vistausss@outlook.com>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: nl\n"
+
+#: ../qml/Main.qml:31 QuickConversions.desktop.in.h:1
+msgid "Quick Conversions"
+msgstr "Snelle berekeningen"
+
+#: ../qml/Main.qml:139
+msgid "Centigrade To Fahrenheit"
+msgstr "Celsius naar Fahrenheit"
+
+#: ../qml/Main.qml:139
+msgid "Centimetres To Inches"
+msgstr "Centimeter naar inch"
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:1226
+msgid "Colour Scheme"
+msgstr "Thema"
+
+#: ../qml/Main.qml:139
+msgid "Kilograms To Pounds"
+msgstr "Kilogram naar pond"
+
+#: ../qml/Main.qml:139
+msgid "Kilometres To Miles"
+msgstr "Kilometer naar mijl"
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:520
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../qml/Main.qml:141
+msgid "Fahrenheit To Centigrade"
+msgstr "Fahrenheit naar Celsius"
+
+#: ../qml/Main.qml:141
+msgid "Inches To Centimetres"
+msgstr "Inch naar centimeter"
+
+#: ../qml/Main.qml:141
+msgid "Miles To Kilometres"
+msgstr "Mijl naar kilometer"
+
+#: ../qml/Main.qml:141
+msgid "Pounds To Kilograms"
+msgstr "Pond naar kilogram"
+
+#: ../qml/Main.qml:371
+msgid "Temperature (°C/°F)"
+msgstr "Temperatuur (°C/°F)"
+
+#: ../qml/Main.qml:408
+msgid "Weight (Kg/Lbs)"
+msgstr "Gewicht (kg/lbs)"
+
+#: ../qml/Main.qml:445
+msgid "Height (Cm/Inches)"
+msgstr "Lengte (cm/inch)"
+
+#: ../qml/Main.qml:482
+msgid "Distance (Km/Miles)"
+msgstr "Afstand (km/mijl)"
+
+#: ../qml/Main.qml:1251
+msgid "Temperature"
+msgstr "Temperatuur"
+
+#: ../qml/Main.qml:1274
+msgid "°C Max"
+msgstr "Max. °C"
+
+#: ../qml/Main.qml:1321
+msgid "°C Min"
+msgstr "Min. °C"
+
+#: ../qml/Main.qml:1367
+msgid "°F Max"
+msgstr "Max. °F"
+
+#: ../qml/Main.qml:1413
+msgid "°F Min"
+msgstr "Min. °F"
+
+#: ../qml/Main.qml:1452
+msgid "Weight"
+msgstr "Gewicht"
+
+#: ../qml/Main.qml:1475
+msgid "Kg Max"
+msgstr "Max. kg"
+
+#: ../qml/Main.qml:1522
+msgid "Lbs Max"
+msgstr "Max. lbs"
+
+#: ../qml/Main.qml:1568 ../qml/Main.qml:1762 ../qml/Main.qml:1916
+msgid "0.5 Step Size"
+msgstr "0.5 stapgrootte"
+
+#: ../qml/Main.qml:1615
+msgid "Show Stone"
+msgstr "Steen tonen"
+
+#: ../qml/Main.qml:1650
+msgid "Height"
+msgstr "Lengte"
+
+#: ../qml/Main.qml:1672
+msgid "Cm Max"
+msgstr "Max. cm"
+
+#: ../qml/Main.qml:1717
+msgid "Inches Max"
+msgstr "Max. inch"
+
+#: ../qml/Main.qml:1802
+msgid "Distance"
+msgstr "Afstand"
+
+#: ../qml/Main.qml:1824
+msgid "Km Max"
+msgstr "Max. km"
+
+#: ../qml/Main.qml:1870
+msgid "Miles Max"
+msgstr "Max. mijl"
+
+#: ../qml/Main.qml:1985
+msgid "Background"
+msgstr "Achtergrond"
+
+#: ../qml/Main.qml:2120
+msgid "Text"
+msgstr "Tekst"
