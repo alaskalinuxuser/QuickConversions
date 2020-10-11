@@ -1,6 +1,6 @@
 # Quick Conversions
 
-Slider-based quick conversions for Temperature, Weight, Height and Distance
+Qt Quick slider-based conversions for Temperature, Weight, Height and Distance
 
 ## License
 
