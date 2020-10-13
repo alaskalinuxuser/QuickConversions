@@ -9,7 +9,7 @@
             "desktop":  "QuickConversions.desktop"
         }
     },
-    "version": "0.1.0",
+    "version": "0.2.0",
     "maintainer": "P Helion <perryhelionsemail@gmail.com>",
     "framework" : "ubuntu-sdk-16.04"
 }

@@ -16,17 +16,25 @@
 
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
+#include <libintl.h> //added for translations
 
 int main( int argc, char *argv[])
 {
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     
     QGuiApplication app(argc, argv);
+    
     app.setOrganizationName("quickconversions.phelion"); 
     // WARNING!!! OrganizationName MUST be the same as ApplicationName!!! 
     // If not, when deployed on Ubuntu Touch device, settings aren't saved
     app.setOrganizationDomain("nodomain.org");
     app.setApplicationName("quickconversions.phelion");
+    
+    //For Translations - Ubuntu Touch Specific
+    setlocale(LC_ALL, "");
+    bindtextdomain("quickconversions.phelion", "/opt/click.ubuntu.com/quickconversions.phelion/current/share/locale");
+    bind_textdomain_codeset("quickconversions.phelion", "UTF-8");
+    textdomain("quickconversions.phelion");
     
     QQmlApplicationEngine engine;
     engine.load( QUrl(QStringLiteral("qrc:/Main.qml")) );
