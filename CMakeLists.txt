@@ -3,7 +3,7 @@ project(QuickConversions C CXX)
 
 set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake")
 
-find_package(Qt5 COMPONENTS Core Quick Qml QuickControls2 REQUIRED)
+find_package(Qt5 COMPONENTS Core Quick QuickControls2 REQUIRED)
 
 # Automatically create moc files
 set(CMAKE_AUTOMOC ON)
@@ -42,7 +42,7 @@ install(DIRECTORY assets DESTINATION ${DATA_DIR})
 
 qt5_add_resources(QT_RESOURCES qml/qml.qrc)
 add_executable(${PROJECT_NAME} main.cpp ${QT_RESOURCES})
-qt5_use_modules(${PROJECT_NAME} Gui Qml Quick QuickControls2)
+qt5_use_modules(${PROJECT_NAME} Core Quick QuickControls2)
 install(TARGETS ${PROJECT_NAME} RUNTIME DESTINATION ${CMAKE_INSTALL_PREFIX})
 
 # Translations
