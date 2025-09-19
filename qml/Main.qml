@@ -18,8 +18,8 @@ import QtQuick 2.9
 import QtQuick.Layouts 1.3
 import Qt.labs.settings 1.0
 import QtQuick.Controls 2.2
-// Currently using Ubuntu.Components for i18n.tr() translations function
-import Ubuntu.Components 1.3 as UT
+// Currently using Lomiri.Components for i18n.tr() translations function
+import Lomiri.Components 1.3 as UT
 
 ApplicationWindow {
     id: theApplication
@@ -162,7 +162,7 @@ ApplicationWindow {
     property string backgroundColour: "#" + bgRedString + bgGreenString + bgBlueString 
     
     
-    // Ink - Ubuntu Orange
+    // Ink - Lomiri Orange
     property int defaultInkRed: 0xe9
     property int defaultInkGreen: 0x54
     property int defaultInkBlue: 0x20
